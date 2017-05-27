@@ -1,0 +1,49 @@
+html { 
+  background: url(http://goldwallpapers.com/uploads/posts/uefa-champions-league-wallpaper/uefa_champions_league_wallpaper_021.jpg) 
+  top center no-repeat; 
+  background-attachment: fixed; 
+  background-size: cover;
+  color: yellow;
+}
+
+h1#heading:hover {
+	color: darkblue;
+	background-color: yellow;
+	font: Sylfaen;
+}
+
+div {
+	color: darkblue;
+	font-family: 'Metamorphous', cursive;
+	border: 2px solid;
+	color:darkblue ;
+
+}
+
+h1:hover {
+	color: orange;
+	background-color: silver;
+	font-family: 'Indie Flower', cursive;
+}
+#maintext {
+	width: 100%;
+	max-width: 1070px;
+	margin: 30px auto;
+	background-color: white;
+}
+
+th:hover{
+	background-color: darkblue;
+	color: yellow;
+}
+
+ul#facts {
+	font-size: 16px;
+	position: center;
+
+.my_class{
+	color: orange;
+}
+#my_id {
+	color: brown;
+}
